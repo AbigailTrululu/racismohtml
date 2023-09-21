@@ -4,14 +4,20 @@
 }
 
 .cabeçalho{
-    background-color: white;
-    color: black;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 0, 0;
+    background-image: linear-gradient(#000000, #8a8a8a);
+    color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: large;
-    
+    display: flex;
+    padding: 12px;
+}
+
+.cabeçalho-lista-item{
+    margin: 0 0px;
+    font-style: normal;
+    font-size: medium;
+    background-image: linear-gradient(#000000, #616161;
+
+
 
 }
